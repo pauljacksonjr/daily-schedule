@@ -1,2 +1,11 @@
-This application displays a calendar used for scheduling various important dates and
-for all your busy days!
+## Work Day Scheduler
+This is a simple calendar that allows the user to save important information throught different times of the day. 
+
+
+## Technologies
+* HTML
+* CSS
+* Javascript
+
+
+### Deployed Application
